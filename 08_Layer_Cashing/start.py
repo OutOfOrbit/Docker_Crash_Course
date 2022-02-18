@@ -1,0 +1,12 @@
+cp -r 01_* 02_Installing_Docker
+03_Images_n_Containers
+04_Parent_images_n_Docker_Hub
+05_The_Dockerfile
+06_dockerignore
+07_Starting_n_Stopping_Containers
+08_Layer_Cashing
+09_Managing_Images_n_Containers
+10_Volumes
+11_Docker_Compose
+12_Dockerizing_a_React_App
+13_Sharing_Images_on_Docker_Hub
